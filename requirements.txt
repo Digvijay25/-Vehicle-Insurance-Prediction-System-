@@ -1,6 +1,7 @@
 ipykernel
 pandas
 numpy
+python-dotenv
 matplotlib
 plotly
 seaborn
